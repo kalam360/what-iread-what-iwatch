@@ -11,8 +11,13 @@ Jeremy Bentham | Utilitarianism
 J.S Mill   | Utilitarianism
 John Lock | Libertarianism
 Immanuel Kant | Libertarianims
-John Rawls | Political Liberalism
+John Rawls | Political Liberalism and Distributive Justice: how wealth power should be distributed. 
 Aristotle | Good Citizen
 
 ### **Lecture 1: Doing the right thing**
 - 
+
+### **Lecture 15-16: Distributive Justice John Rawls**
+>Society needs equal starting point for all, but govt subsidising education will not serve the purpose because its not a efficient system, subsidized education is not a proper system as it lacks the effort of officials who are giving it. For the low income people, they will be credited the education cost, which they need to give back in some way. there comes another issue of debt cycle. the debt for education shouldn't burden students life. A proper system is necessary for education. 
+
+> Another way to think is what form of education should be subsidised? 
