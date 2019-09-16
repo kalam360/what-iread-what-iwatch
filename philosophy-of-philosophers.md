@@ -13,6 +13,7 @@ John Lock | Libertarianism
 Immanuel Kant | Libertarianims
 John Rawls | Political Liberalism and Distributive Justice: how wealth power should be distributed. 
 Aristotle | Good Citizen
+Montesque | About friends
 
 ### **Lecture 1: Doing the right thing**
 - 
